@@ -4,15 +4,8 @@ Lahir 02/07 Berasal Dari Tembilahan :)
 Lalu Gw Masih Pelajar
 
 ## Keadaan Saat Ini
-Punya Teman = Yes
-Punya Hobi = Ngotak Atik Hape
-Gem Kesukaan Lu = Rahasia
-Keluar Rumah = Jarang (gara gara jaman tiktod ae)
-Punya Pacar = Kagak
-Sedboi kah = enggak yang penting heppy
-Sekolah lu Negri Ato Swasta = Gak Tau Soalnya
 
-| Keadaan Saat Ini        | Jawab                                                       |
+| Pertanyaan              | Jawab                                                       |
 | ----------------------- | :---------------------------------------------------------- |
 | Punya Teman             | yes                                                         |
 | Punya Hobi              | Ngoprek Hape                                                |
