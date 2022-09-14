@@ -15,4 +15,4 @@ Lalu Gw Masih Pelajar
 | Sedboi kah              | enggak yang penting eppy                                    |
 | jenjang sekolah         | bolos                                                       |
 
-![Orang Tolol] https://github.com/mika1zumi/tentang-gwj-/blob/main/20220914_133540.jpg
+![Orang Tolol](https://github.com/mika1zumi/tentang-gwj-/blob/main/20220914_133540.jpg)
